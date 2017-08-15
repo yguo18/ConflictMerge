@@ -1,0 +1,2 @@
+# ConflictMerge
+Conflict merge
